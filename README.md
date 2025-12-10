@@ -19,6 +19,21 @@ Ce dépôt contient une collection de documentation et de templates README pour 
   - Structure détaillée du projet
   - Commandes et scripts essentiels
 
+### 🛠️ Outils de Développement
+- [Git](./Git/) - Guide complet des commandes Git essentielles
+  - Configuration initiale et gestion des identités
+  - Commandes de base (add, commit, push, pull)
+  - Gestion avancée des branches et merges
+  - Résolution de conflits et workflows
+  - Commandes d'urgence et bonnes pratiques
+
+### 🖥️ Environnement de Développement
+- [WSL](./WSL/) - Installation et configuration de WSL2
+  - Configuration requise Windows 10/11
+  - Installation pas à pas de WSL2
+  - Configuration de distribution Linux
+  - Migration depuis WSL1
+
 ### 📝 Ressources Générales
 - [Template README](./TemplateReadme/) - Template générique pour tout type de projet
   - Structure standard complète
