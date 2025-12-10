@@ -49,6 +49,15 @@ Ce dépôt contient une collection de documentation et de templates README pour 
   - Format professionnel avec emojis
   - Placeholders à personnaliser
 
+### 📚 Formation et Référence
+- [Glossaire Technique](./Glossaire/) - Dictionnaire complet des termes techniques pour développeur full stack
+  - Concepts web fundamentaux (Frontend, Backend, API)
+  - Architecture et design patterns
+  - DevOps, CI/CD et déploiement
+  - Sécurité et authentification
+  - Méthodologies agiles et collaboration
+  - Jargon d'entreprise et acronymes
+
 ## 💡 Comment Utiliser cette Documentation
 
 1. Choisissez le guide correspondant à votre technologie
