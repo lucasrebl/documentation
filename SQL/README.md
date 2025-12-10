@@ -24,6 +24,13 @@ SQL (Structured Query Language) est un langage de programmation conçu pour :
 - Gestion des tables, index et contraintes
 - Commandes essentielles pour débuter
 
+### 🏷️ Types de Données
+**[SQL Data Types](./datatypes/README.md)** - Guide complet des types de données
+- Types numériques (INT, DECIMAL, FLOAT) et leurs cas d'usage
+- Types texte (VARCHAR, TEXT, CHAR) avec bonnes pratiques
+- Types date/temps (DATE, DATETIME, TIMESTAMP)
+- Types spécialisés (JSON, BOOLEAN, ENUM) et optimisation
+
 ### 🔍 Consultation de Données
 **[SQL Queries](./queries/README.md)** - Requêtes et recherches
 - DQL (Data Query Language) - SELECT et ses variantes
