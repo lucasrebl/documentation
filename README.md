@@ -19,6 +19,14 @@ Ce dépôt contient une collection de documentation et de templates README pour 
   - Structure détaillée du projet
   - Commandes et scripts essentiels
 
+#### Base de Données
+- [SQL](./SQL/) - Guide complet des commandes SQL et gestion de bases de données
+  - Commandes fondamentales (DDL, DML, DQL)
+  - Requêtes avancées et consultation de données
+  - Jointures et relations entre tables
+  - Fonctions avancées et optimisation
+  - Administration, sécurité et maintenance
+
 ### 🛠️ Outils de Développement
 - [Git](./Git/) - Guide complet des commandes Git essentielles
   - Configuration initiale et gestion des identités
